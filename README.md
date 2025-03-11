@@ -23,3 +23,7 @@ cd <path-repositorio>
 ## Setup
 1 - Baixar VSCode
 2 - Instalar o Git
+
+
+## Minha empresa
+Autor: Minha Empresa
